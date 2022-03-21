@@ -4,7 +4,7 @@ DisplayStrings = (
 ABCDEFGHIJKLMNOPQRSTUVWXYZ,
 "abcdefghijklmnopqrstu/space v/space w/space x/space yz"
 );
-copyright = "Copyright 2003-2021 The Square Peg Project Authors (https://github.com/googlefonts/square-peg)";
+copyright = "Copyright 2003-2021 The Tapestry Project Authors (https://github.com/googlefonts/tapestry)";
 customParameters = (
 {
 name = panose;
@@ -54783,5 +54783,5 @@ manufacturer = "Robert E. Leuschke";
 manufacturerURL = www.typesetit.com;
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 2;
+versionMinor = 3;
 }
