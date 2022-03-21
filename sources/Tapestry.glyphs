@@ -129,31 +129,35 @@ capHeight = 640;
 customParameters = (
 {
 name = typoAscender;
-value = 878;
+value = 940;
 },
 {
 name = typoDescender;
-value = -288;
+value = -320;
 },
 {
 name = typoLineGap;
 value = 0;
 },
 {
-name = winAscent;
-value = 878;
-},
-{
-name = winDescent;
-value = 288;
-},
-{
 name = hheaAscender;
-value = 878;
+value = 940;
 },
 {
 name = hheaDescender;
-value = -288;
+value = -320;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 940;
+},
+{
+name = winDescent;
+value = 32;
 },
 {
 name = strikeoutPosition;
