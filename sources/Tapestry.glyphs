@@ -32503,16 +32503,7 @@ note = NULL;
 );
 instances = (
 {
-customParameters = (
-{
-name = postscriptFullName;
-value = "Tapestry Regular";
-},
-{
-name = postscriptFontName;
-value = "Tapestry-Regular";
-}
-);
+interpolationWeight = 400;
 instanceInterpolations = {
 "404CF7D8-B1FB-4D32-849A-66F5CDD10145" = 1;
 };
